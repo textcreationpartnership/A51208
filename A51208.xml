@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The revelation of Jesus Christ unto John Moone in the fourth moneth, in the year 1658</title>
+            <author>Moon, John, fl. 1657-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51208</idno>
+            <idno type="STC">Wing M2525</idno>
+            <idno type="STC">ESTC R2882</idno>
+            <idno type="EEBO-CITATION">12078341</idno>
+            <idno type="OCLC">ocm 12078341</idno>
+            <idno type="VID">53650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 818:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The revelation of Jesus Christ unto John Moone in the fourth moneth, in the year 1658</title>
+                  <author>Moon, John, fl. 1657-1685.</author>
+               </titleStmt>
+               <extent>[4], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>"The Epistle" signed: John Moon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53650:1" rendition="simple:additions"/>
+            <p>THE REVELATION OF Jeſus Chriſt.</p>
+            <p>UNTO <hi>JOHN MOONE.</hi>
+            </p>
+            <p>In the fourth Moneth, in the year 1658.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> neer <hi>Alderſgate,</hi> 1658.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:53650:2"/>
+            <pb facs="tcp:53650:2" rendition="simple:additions"/>
+            <head>THE EPISTLE.</head>
+            <p>
+               <hi>OH all you who are begotten by the E<g ref="char:EOLhyphen"/>ternal Word of life, all wait and abide in that which the Lord hath begot<g ref="char:EOLhyphen"/>ten of himſelf in you, And all to walk in obedience unto him who hath begotten you, that you may daily by him alone be ſtrengthened and refreſhed with his living mercies, that ſo you may go on in his work which is perfect, in obedience unto whatever Chriſt Jeſus the light maketh known unto you, and ſo will the ſecrets of the Lord be with you, and revealed unto you; For tru<g ref="char:EOLhyphen"/>ly the Lord God is greatly making his large love and mercies known unto them who are
+<pb facs="tcp:53650:3"/>
+begotten by him, and revealing himſelf to his own Children, who bears the reproach of the World for his Name ſake, the Lord is now ariſing in his power and ma<g ref="char:EOLhyphen"/>jeſty to Crown his own Children with ſtrength and dominion over the World; So all you who are obedient unto the Truth, you are Gods friends, and with you is my life hid in Chriſt Jeſus the light, and in this fare you all well.</hi>
+            </p>
+            <closer>
+               <signed>John Moon.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:53650:3" rendition="simple:additions"/>
+            <epigraph>
+               <q>He who is the Lord God of Heaven and Earth, the Crea<g ref="char:EOLhyphen"/>tor of all things, and the governour of his Children, (who are begotten by his Eternal Word) it is He alone who is Lord of Lords, and King of Saints, which ſhews unto them things paſt, preſent, and that which will ſhortly come to paſſe, that they may bear Teſtimony unto the Truth, as it is made manifeſt by Chriſt Jeſus the Light, and that they thereby may be juſtified in the ſight of God.</q>
+            </epigraph>
+            <p>I Being a ſervant of the Lord who bear teſtimo<g ref="char:EOLhyphen"/>nie unto the Truth as it is made manifeſt and required of me, The Lord God ſhewed me in the time of weakneſſe, <hi>a River of water as clear as Chryſtal;</hi> and in it there was <hi>a pure precious pearl,</hi> which was the life of men; and the Lord made known unto me, that I was to bring many to be waſh'd in that River, that they might be made clean, that the Lord might receive them, and by this River there was <hi>a Hill</hi> like unto a great mountain; and by this Hill there was <hi>a great Wood</hi> like unto a wilder<g ref="char:EOLhyphen"/>neſſe, and in that <hi>wood</hi> there <hi>was a mighty houſe,</hi> and I ſaw many came to that Houſe which was weak and feeble, and the Rulers of that houſe deſtroyed many of them; and ſome was dying &amp; not dead, and this was the houſe where many ſouls was and is de<g ref="char:EOLhyphen"/>ſtroyed; and the Lord God ſhewed unto me that I might cry with a loud voice, that a day of deliver<g ref="char:EOLhyphen"/>ance was coming unto them who were dying and in bondage in that houſe, and with that immedi<g ref="char:EOLhyphen"/>ately after dread and terrour fell upon the Ru<g ref="char:EOLhyphen"/>ler of that houſe, and <hi>a fire</hi> was kindled therein, which could not be quenched, and by this
+<pb n="6" facs="tcp:53650:4"/>
+fire many was to be delivered which ſuffered, and was kept in bondage for the truth of God, which is Jeſus Chriſt; but when that fire was kindled, <hi>all</hi> of that houſe were of <hi>an uproar,</hi> &amp; gathered their <hi>forces</hi> and their <hi>ſtrength</hi> together, <hi>to keep</hi> thoſe that were in bondage, and was dying, that they ſhould not be delivered, nor relieved, but they could not prevail againſt him that came to deliver them, but many was delivered, <hi>even ſo as it were by fire</hi> and ſword, and ma<g ref="char:EOLhyphen"/>ny were they that were ſlain thereby.</p>
+            <p>And moreover, <hi>I ſaw a people that had no habitati<g ref="char:EOLhyphen"/>on in the earth,</hi> and was <hi>naked,</hi> and ſo they were to remain until the appearance &amp; coming of our Lord Jeſus, but many of them not being content to abide in that eſtate, they were going about to build hou<g ref="char:EOLhyphen"/>ſes in the earth again, and making to themſelves co<g ref="char:EOLhyphen"/>verings which were rough and ill-favoured, and as it were of rough hair, and I was to reprove them.</p>
+            <p>Moreover <hi>I ſaw the place where the Lord God would come and appear to judge his people,</hi> and there I was commanded of the Lord, to counſel the faithful peo<g ref="char:EOLhyphen"/>ple of God, to make their habitation and abode in that place, that they might all live together in that habitation, for it was, and is ſure from generation to generation; for the day is coming that them that was not found there, in that habitation was to periſh, for the Lord God would make a ſpeedy riddance of them by the fire of his jealouſie.</p>
+            <p>The Lord God of power gave unto me <hi>the Book of life,</hi> and I was glad and did receive it, and did look thereon, and all my enemies was brought down un<g ref="char:EOLhyphen"/>der my feet, and I was in a quiet habitation, and the glory of the Lord did ſhine round about me.</p>
+            <p>And the Lord God of heaven and earth <hi>took me up
+<pb n="7" facs="tcp:53650:4" rendition="simple:additions"/>
+in the ſpirit unto a holy mountain</hi> and ſhewed me all the whole world, and ſpake to me, and ſaid, <hi>That he had warned all men to repent, and to come to Judgement,</hi> and ſome obeyed, and came to judgement at the Lords command, and were ſaved, and they were brought into that holy Mountain; and others refuſed to come to judgment, and they ſtayed in the ungodly world, and were to be deſtroyed with the World, and others were afraid of deſtruction which was to come upon the wick<g ref="char:EOLhyphen"/>ed, and they were running and ſtriving to ſave them<g ref="char:EOLhyphen"/>ſelves, and with raſhneſſe and haſtineſſe they killed and deſtroyed one another, and never came to life, <hi>and they which was not ſaved was either killed or burned with fire.</hi>
+            </p>
+            <p>And I <hi>ſaw a people that lived, and not of any earthly thing; or elſe they could not inherit the Kingdom of God;</hi> but they were few that lived ſo, though ſome was come much out of the earth, and was turning into the earth again, and ſo deſtruction came upon them.</p>
+            <p>The Lord God by his mighty hand and power <hi>lifted me upon high</hi> and ſet me on that which ſtood ſure &amp; was indurable, and gave unto me <hi>a weapon</hi> in my hand like unto <hi>aſpear,</hi> and when it was lifted up, a glorious light did ſhine about it, that many could not behold and en<g ref="char:EOLhyphen"/>dure, And ſo they would ſtrive to make war and riſe up againſt it, but the Lord God ſpake to me and ſaid, <hi>Go on &amp; make war with the nations which riſeup againſt thee, with that weapon which I have given thee in thy hand, and hold it faſt, and thy enemies ſhall not overcome thee, though they be many againſt thee, neither them nor their weapons ſhall never prevail against thee.</hi>
+            </p>
+            <p>And the Lord God ſhewed me a narrow and a ſtraight way, and he led me therein, and ſome others with me, And <hi>I ſaw a City before me,</hi> and the Lord brought me through great tribulations to that City, and in that Ci<g ref="char:EOLhyphen"/>ty
+<pb n="6" facs="tcp:53650:5" rendition="simple:additions"/>
+there was <hi>a Child</hi> which had a throne above the earth and walked in it; and there was <hi>a Lion with that Child,</hi> but he was made ſubject, and the <hi>Childe</hi> had power and do<g ref="char:EOLhyphen"/>minion over the Lion, and ſome few was brought to that City, and ſaw it, but it was through great tribulations; but there was none could come to that child which was in the Throne but through death, <hi>he that readeth let him underſtand.</hi>
+            </p>
+            <p>
+               <hi>Dear Brethren, and Siſters in the inviſible life of our Lord Jeſus Chriſt do I ſalute you all in that which hath been hid from ages and generations, but now is made ma<g ref="char:EOLhyphen"/>nifeſt in the light by the Revelation and appearance of the Son of God, and in this life and light am I one with you, and as you abide in the light you will grow in the life of Righteouſneſs, and alſo in the knowledge of the pure God of life and wiſdom, and ſo the Lord will Eſtabliſh you in his own Houſe on top of all mountains, and you ſhall be the glory of all the whole Earth, and you ſhall be called</hi> Zion the holy City of the living God, <hi>and the Lord will be unto you an open fountain of life to refreſh your hearts and ſouls, as the former and latter rain in its due ſeaſon, and you ſhall ſit under your own Vine which is Chriſt in you the hope of your life and glory, ſo wait and abide in the light, and be obedient to it, that you may he made witneſſes of this through the death upon the croſſe, And ſo will your lives be hid with Chriſt in God.</hi>
+            </p>
+            <closer>Amen.<lb/>
+               <signed>JOHN MOONE.</signed>
+            </closer>
+            <trailer>This Epiſtle and Revelation is to be read amongſt the Church of the firſt-born and begotten unto God.</trailer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
